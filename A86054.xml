@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God appearing for the Parliament, in sundry late victories bestowed upon their forces, vvhich command and call for great praise and thanksgiving both from Parliament and people. Die Martis; 4. Martii, 1644. Ordered by the Commons House of Parliament, that Mr. Whitaker, Sir Thomas Widdrington, Mr. Rous, and Mr. Millington, do peruse all the letters that are come from Shrewsbury, Plimouth, Scarborough, Glocestershire, and Weymouth; and make a narrative out of them, of all Gods great and late mercies upon the Parliaments forces, to be printed, and read on the next day of publique thanksgiving. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86054</idno>
+            <idno type="STC">Wing G906</idno>
+            <idno type="STC">Thomason E271_22</idno>
+            <idno type="STC">ESTC R212192</idno>
+            <idno type="EEBO-CITATION">99870838</idno>
+            <idno type="PROQUEST">99870838</idno>
+            <idno type="VID">123234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E271[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God appearing for the Parliament, in sundry late victories bestowed upon their forces, vvhich command and call for great praise and thanksgiving both from Parliament and people. Die Martis; 4. Martii, 1644. Ordered by the Commons House of Parliament, that Mr. Whitaker, Sir Thomas Widdrington, Mr. Rous, and Mr. Millington, do peruse all the letters that are come from Shrewsbury, Plimouth, Scarborough, Glocestershire, and Weymouth; and make a narrative out of them, of all Gods great and late mercies upon the Parliaments forces, to be printed, and read on the next day of publique thanksgiving. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Edward Husbands.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>March 10. 1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason catalogue lists under 1645.</note>
+                  <note>Quire C in two states: C4v numbered (1) "21" or (2) "22"; line 1 has (1) "The conclusion." or (2) "Die Martis 4. Martii, 1644.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123234:1" rendition="simple:additions"/>
+            <p>
+               <hi>God appearing for the Parliament,</hi> In ſundry late VICTORIES Beſtowed upon their Forces, VVhich Command and call for great Praiſe and Thankſgiving both from Parlia<g ref="char:EOLhyphen"/>ment and People.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>
+                           <hi>Die Martis;</hi> 4. <hi>Martii,</hi> 1644.</head>
+                        <p>ORdered by the Commons Houſe of Parliament, That Mr. <hi>Whitaker,</hi> Sir <hi>Thomas Widdrington,</hi> Mr. <hi>Rous,</hi> and Mr. <hi>Millington,</hi> do peruſe all the Letters that are come from <hi>Shrewsbury, Plimouth, Scarborough, Glo<g ref="char:EOLhyphen"/>ceſterſhire,</hi> and <hi>Weymouth;</hi> and make a Narrative out of them, of all Gods great and late Mercies upon the Parliaments Forces, to be Printed, and Read on the next day of Publique Thanksgiving.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>Edward Husbands.</hi> March 10. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:123234:2"/>
+            <pb n="1" facs="tcp:123234:2"/>
+            <div type="preamble">
+               <head>The Preamble.</head>
+               <p>
+                  <hi>THe Arme of the Lord daily brings mighty things to paſſe: But there are ſome things which he brings to paſſe in ſuch a manner, that therein He makes His Arme bare and naked: He ſhewes his power and migh<g ref="char:EOLhyphen"/>ty working, with ſuch evidence and demonſtration that it ſtrikes and ſhines like lightning, even into cloſed eyes, and extorts an acknowledgement, That this is the power, and the very Arme of the Lord: thus is it when effects ariſe in a notable eminence, far above naturall cauſes, or contrary to them: When weakneſſe performes the worke of extraordinary ſtrength; and when notable ſtrength, even ſtrength unto preſumption, is turned into extraordi<g ref="char:EOLhyphen"/>nary weakneſſe: When the bowes of the mighty are bro<g ref="char:EOLhyphen"/>ken; and they that ſtumbled, are girt with ſtrength.</hi>
+               </p>
+               <p>
+                  <hi>In this manner hath the Lords Arme of late appeared viſibly in ſundry places; But moſt eminently in the Weſt, where with his own right Arme, he hath gotten Himſelf the Victory, and bestowed it upon us. The Towns of</hi> Weymouth <hi>and</hi> Melcomb <hi>are near by ſcituation, and one of them being dead, threatned death to the other; yea, the Enemy spake like the Egyptians of old (as it ap<g ref="char:EOLhyphen"/>pears in intercepted Letters) I will purſue, I will over<g ref="char:EOLhyphen"/>take,
+<pb n="2" facs="tcp:123234:3"/>I will divide the spoile, my lust ſhall be ſatisfied upon them: But thy right hand, O Lord, is become glo<g ref="char:EOLhyphen"/>rious, thy right hand hath daſhed the enemy in pieces; The living Town is kept alive, and by it God wrought a Reſurrection in that which was dead.</hi>
+               </p>
+               <p>But to proceed according to the order of time, as firſt in that order (among Gods late gracious diſpenſations of Victory to the Parliaments forces) is preſented to our view, and thankfulneſſe.</p>
+            </div>
+            <div type="part">
+               <head>Touching <hi>Scarborough.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>An Extract out of Sir</hi> John Meldrums <hi>Letter written to the Spea<g ref="char:EOLhyphen"/>ker of the Houſe of Commons, dated from</hi> Scarborough 19. Fe<g ref="char:EOLhyphen"/>bruary, 1644.</head>
+                     <p>IT hath pleaſed God to give us happy ſucceſſe in the taking of the Town and Harbour of <hi>Scarborough,</hi> which otherwiſe might have proved a receptacle for Strangers, and a ſubject for the lon<g ref="char:EOLhyphen"/>ger continuance of this war; beſides the inconveniences to the City of <hi>London,</hi> and other Southern parts by the interruption of the Coale Trade.</p>
+                     <p>The Service was done after this manner: After that, their three men of war, which were appointed to ſcoure along the Sands, were beaten and ſunke, and their Ordinance made unſerviceable: A Summons being ſent, and an Anſwer returned, preſent order was given, for falling upon their Works and the Town; which was done without any reſiſtance, untill they drew their Body within a ſtrong Work about the Church, which if they had maintained as they might have done, they had puſled us; but upon view of the advancing of our foot, to cut their paſſage betwixt the Caſtle, and the Church, they all retired within the Caſtle in great diſorder: There was a ſtrife betwixt the Officers and Souldiers, who ſhould ſhew moſt forwardneſſe. Sir <hi>Hugh Cholmley</hi> did expect reliefe within four dayes.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="3" facs="tcp:123234:3"/>
+                     <head>Two Letters intercepted, which were written from Sir <hi>Hugh Cholm<g ref="char:EOLhyphen"/>ley,</hi> to two Commanders in the Kings Army.</head>
+                     <p>SIr, we are cloſe blocked up into the Caſtle, and though no Forces could be ſent to our reliefe, I admire I ſhould not be ſupplyed with thoſe accommodations which eſſentially conduce to the defence of this place; I am bound in duty to let you know if we have not timely helpe the King will loſe his intereſt there, and yet I hope my ſelfe blameleſſe. If it may advantage his affaires, for me to fall into the hands of thoſe which ſeeke my blood, I can willingly ſubmit to it; but it will not be a preſident to draw others to ſerve his Majeſty with ſo little private ends, as I have done. The God Almighty direct and protect us all.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Feb. the.</hi> 23.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your humble Servant.</hi> Hu. Cholmley.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>Meldrum</hi> is the active man here, and Commands in chiefe; he hath ſome ſix or ſeven hundred of the Lord <hi>Fairfax</hi> his Foot, and a Regiment of Scots.</head>
+                     <p>SIr, we are now blocked up cloſe into the Caſtle, divers of our ſouldiers run away unto the Enemy, and it is to be feared, that the ill accommodation will daily decreaſe our number; you know the Conſequence, and beleeve me it requires ſpeedy ſup<g ref="char:EOLhyphen"/>ply, for reaſons I cannot expreſſe. I pray ſignify where, or from whence I may hope for reliefe, and whether any expectance of Forces from the Queene, or Ireland, or probability of a good iſſue from the Treaty; of which particulars I deſire to be ſatiſ<g ref="char:EOLhyphen"/>fied, that I may not be totally in ignorance, not that the fayling of any, or all theſe ſhall make me quit this truſt otherwiſe then becomes a Gentleman, and good Subject. Your Colonell <hi>Whar<g ref="char:EOLhyphen"/>ton</hi> ſalutes you; And I am your humble Servant.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Scarbo. Caſtle,</hi> 
+                           <date>
+                              <hi>Feb.</hi> 24.</date>
+                        </dateline>
+                        <signed>Hu. Cholmley.</signed>
+                     </closer>
+                     <postscript>
+                        <p>Here is ten Collours of Scots I imagine, though not above eight hundred men of them; But Sir <hi>Iohn Meldrum</hi> hath ſix or ſeven hundred more of the Lord <hi>Fairfaxes</hi> Foot, and Commands in chiefe.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:123234:4"/>
+               <head>Touching Plymouth.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>An Extract out of a Letter written from Captaine</hi> Pierce <hi>to Sir</hi> Io. Young, <hi>a member of the Houſe of Commons,</hi> 21. <hi>Feb.</hi> 1644.</head>
+                     <p>ON the eighteenth of February laſt, the Enemy having the night before made a worke upon the old worke at Mont-Stamford, with a very large Line both ſides from the worke; the Sea-men in the morning fell on them, and tooke one halfe Moon, which was made at the ſouth end of the Line; but the enemies horſe comming upon them, forced them to retreat, but with no loſſe on our ſide, bleſſed be God; Upon which we were all commanded to Armes; ſeverall Companies were drawn out to goe over, and two Troops of horſe; one being ſtill quartered on that ſide, to joyne with ſome Sea-men taken on ſhore for that pur<g ref="char:EOLhyphen"/>poſe, all (I thinke) conſiſting of about five hundred, and all the reſt of the Garriſon were commanded to march out to face the enemy on the North-ſide, and were drawne without our Line within Musket-ſhot of their worke under the Hill, the Hill be<g ref="char:EOLhyphen"/>friending us, that they could not play much on us: All we did, was only ſending out ſmall Parties to ſhoot, as if we intended to fall on, that ſo they might draw off ſome of their forces from the other ſide of the water, where our purpoſe was to fall on: and it ſeemes, they did draw off ſome horſe; and about two of the Clock in the after-noone, our men fell upon Mont-Stamford, where the enemy powred out mighty vollies of ſhot, as I have ſeene or heard; but our men went on with that reſolution both horſe and foot, that within little more then halfe an houre we tooke the worke, routed the enemy both horſe and foot, purſu<g ref="char:EOLhyphen"/>ed them above a mile, hewing and cutting them. The names of them we tooke were Lieutenant Colonell <hi>Mohun,</hi> Lient. Col. of Horſe, Major <hi>Richard Heale,</hi> Baronet <hi>Heales</hi> brother, Captaine <hi>Maynard,</hi> (who had taken up Armes on our ſide) Captaine <hi>Hill,</hi> Captaine <hi>Aſton,</hi> Captaine <hi>Huchins,</hi> Lieutenant <hi>Waring,</hi> Lieut. <hi>Inglett,</hi> Lieut. <hi>Aſhford,</hi> Lieut. <hi>Manwaring,</hi> Enſigne <hi>Halſe,</hi> En<g ref="char:EOLhyphen"/>ſigne <hi>Battiſhill,</hi> and of private men ninety three, in all one hun<g ref="char:EOLhyphen"/>dred and eight perſons, with many more Armes. They alſo found there ſome Barrells of Powder, and Pioneers tooles, and ſome horſes, and had neare taken them all, but for the woods and en<g ref="char:EOLhyphen"/>cloſures
+<pb n="5" facs="tcp:123234:4"/>neare adjoyning. This day we had a Counſell of Warre, to try ſuch of them as had heretofore taken up Armes on our ſide, and proceeded upon three of them, viz. Captaine <hi>Maynard,</hi> Lieu<g ref="char:EOLhyphen"/>tenant <hi>Aſhford,</hi> and Enſigne <hi>Battiſhill,</hi> who are to be executed to morrow, and ſome other common men will follow.</p>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <head>Touching Shrewsbury.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>An Extract out of the Letters written from the Committees of Shrewsbury, to the Speaker of the Houſe of Commons, with the Liſt of the Priſoners.</head>
+                     <opener>
+                        <salute>Right Honourable Sir:</salute>
+                     </opener>
+                     <p>IT hath pleaſed God miraculouſly to deliver the Towne of Sa<g ref="char:EOLhyphen"/>lop into our hands, with all the Commanders, Officers, and Souldiers therein; a Liſt of the chiefe of them we have ſent in<g ref="char:EOLhyphen"/>cloſed. Upon the two and twentieth of this Moneth we drew out of our Garriſons of Wem, Moreton, and Stoke, two hun<g ref="char:EOLhyphen"/>dred and fifty Horſe, and the like number of Foot, Sir <hi>William Brereton</hi> having ſent us two hundred and fifty Foot, and three hundred and fifty Horſe; which party by our order was Com<g ref="char:EOLhyphen"/>manded by Lieutenant Colonell <hi>Rincking</hi> (in the Marſhalling of this deſigne he deſerves much honour) and Captaine <hi>Wyllier,</hi> and Maſter <hi>Huſon</hi> a Miniſter, led on the Fire-lockes, with fifty Troopers, diſmounted under the Command of Lieutenant <hi>Ben<g ref="char:EOLhyphen"/>debue;</hi> they led on their men with undaunted reſolutions, after whom followed three hundred and fifty Foot, which by Severne ſide ſtormed the Towne, neare unto the Caſtle wall, and mar<g ref="char:EOLhyphen"/>ched unto the Market-houſe, and there ſurpiſed the maine Guard, and then ſent a Party to ſecure the Caſtle-forehead Gate, which was effected without much difficulty, and after a quarter of an houre, the Draw-bridge was let downe, and the Gate opened, where Colonell <hi>Mytton,</hi> Colonell <hi>Bowyer,</hi> and all the Gentlemen of this Committee with the Horſe entred, and immediatly be<g ref="char:EOLhyphen"/>came Maſters of the Towne, within foure houres after the Caſtle was delivered upon quarter, for all but the Iriſh to march to Ludlow, and then the Enemy delivered up a ſtrong Out-work in Franckwell upon bare quarter for their lives: by twelve of the clock we became Maſters of the Caſtle and Towne, wherein were taken many conſiderable Priſoners (whereof the names of many are yet unliſted, by reaſon of the want of time to ſecure them) good
+<pb n="6" facs="tcp:123234:5"/>ſtore of Ammunition, and great ſtore of Ordnance. It was our care to preſerve the Town from plundering, but the promiſes of a large reward would not ſatisfie the ſouldiers. Our horſe the day before had a long march, they being ſent to ſurprize Sir <hi>William Whitmore,</hi> and Sir <hi>Thomas Whitmore,</hi> his ſonne being a Parliament man, which was effected, and they brought ſafe to VVem. Sir, we ſhall not trouble you further, but to ſubſcribe our ſelves</p>
+                     <closer>
+                        <dateline>Salop, <date>Feb. 24. 1644.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your moſt humble Servants,</hi>
+                           <list>
+                              <item>
+                                 <hi>A. Lloyd, Sam. Moore.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Hunt. Ro. Clives.</hi>
+                              </item>
+                              <item>
+                                 <hi>Rob. Charlton. Leigh. Owen.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <list>
+                  <head>
+                     <hi>A Liſt of the Priſoners taken at</hi> Salop <hi>the</hi> 22. <hi>day of Febr.</hi> 1644.</head>
+                  <item>Sir Michael E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nely, Knight; And his brother.</item>
+                  <item>Sir Richard Lee Baronet.</item>
+                  <item>Sir Thomas Harris Baronet.</item>
+                  <item>Sir Henry Frederick-Thyn Baronet.</item>
+                  <item>Sir William Owen Knight.</item>
+                  <item>Sir Iohn Wyld Senior, Knight.</item>
+                  <item>Sir Iohn Wyld Iunior, Knight.</item>
+                  <item>Sir Thomas Lyſter Knight.</item>
+                  <item>Francis Thornes Eſquire.</item>
+                  <item>Herbert Vaughan Eſquire.</item>
+                  <item>Thomas Owen Eſquire.</item>
+                  <item>Edward Kynnaſton Eſquire.</item>
+                  <item>Robert Ireland Eſquire.</item>
+                  <item>Richard Trevis Eſquire.</item>
+                  <item>Thomas Morris Eſquire.</item>
+                  <item>Arthur Sandford Eſquire.</item>
+                  <item>Robert Sandford Eſquire.</item>
+                  <item>Pelham Corbet Eſquire.</item>
+                  <item>Thomas Iones Eſquire.</item>
+                  <item>Lieut. Colonell Edward Owen.</item>
+                  <item>Lieut. Colonell Thomas Owen.</item>
+                  <item>Major Francis Ranger.</item>
+                  <item>Doctor Lewin.</item>
+                  <item>Doctor Arnewey.</item>
+                  <item>Capt. Raynsford.</item>
+                  <item>Capt. William Lucas.</item>
+                  <item>Capt. Iohn Creſſy.</item>
+                  <item>Capt. Thomas Collyns.</item>
+                  <item>Capt. William Long.</item>
+                  <item>Capt. Pontesbury Owen.</item>
+                  <item>Iohn Pey Feodary.</item>
+                  <item>Capt. Henry Harriſon.</item>
+                  <item>Caſſy Benthall Gentleman.</item>
+                  <item>Edward Talbot Gentleman.</item>
+                  <item>Richard Lee Gentleman.</item>
+                  <item>Edward Stanley Gentleman.</item>
+                  <item>Francis Maynwaring Gentleman.</item>
+                  <item>Iohn Bradſhaw Gentleman.</item>
+                  <item>Iohn Iones Gentleman.</item>
+                  <item>Edward Leighton Gentleman.</item>
+                  <item>Peter Dorrington Gentleman.</item>
+                  <item>Thomas Barker Gentleman.</item>
+                  <item>Iohn Whittakers Gentleman.</item>
+                  <item>Ioſeph Taylor Gentleman.</item>
+                  <item>Francis Sandford Gentleman.</item>
+                  <item>Richard Gibbons Gentleman.</item>
+                  <item>George Maynwaring Gentleman.</item>
+                  <item>Charles Smith, Edward Palmer, Mat<g ref="char:EOLhyphen"/>thew Wightwicke, Ancients.</item>
+                  <item>Vincent Taylor, Thomas Dewe, Humphrey Davies, Richard Brayne, Sergeants.</item>
+                  <item>Nicholas Proud, Clerk.</item>
+                  <item>Maſter Iames Laton.</item>
+                  <item>Maſter Leadall.</item>
+                  <item>Moſes Hotchkys.</item>
+                  <item>George Bucknall Corporall.</item>
+                  <item>Patrick Lawry an Iriſhman, fourty nine other Priſoners.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:123234:5"/>
+               <head>Touching <hi>Weymouth.</hi>
+               </head>
+               <p>BY the treachery of divers malignant Inhabitants of <hi>Weymonth</hi> and <hi>Melcomb-Regis,</hi> with the know<g ref="char:EOLhyphen"/>ledge and conſent of ſome Gunners upon duty in the Forts, on the 9 of <hi>February,</hi> the Enemy from Portland was let in by Sea, into the north Fort; there being then no Parliament ſhips in the Road, and in<g ref="char:EOLhyphen"/>to the Chappell Fort by land: who ſeizing upon the Guard and Gunns, poſſeſſed themſelves of both Forts about twelve at night.</p>
+               <p>Sir <hi>Lewis Dives</hi> was by the ſame Confederates to be let into the Towne of <hi>Melcombe,</hi> the Malig<g ref="char:EOLhyphen"/>nants haveing combined together to let out our pri<g ref="char:EOLhyphen"/>ſoners, kill the Major of the Regiment, and ſeize up<g ref="char:EOLhyphen"/>on the Maine Guard: This ſurpriſall of <hi>Melcombe</hi> was prevented, the Allarm being received at <hi>Wey<g ref="char:EOLhyphen"/>mouth</hi> firſt.</p>
+               <p>The Plott and Plotters are every day more and more diſcovered, divers of them (by a juſt vengeance from Heaven) have been ſince ſlaine, ſome wound<g ref="char:EOLhyphen"/>ed and others impriſoned, and in a poſture ſpeedi<g ref="char:EOLhyphen"/>ly to be hanged.</p>
+               <p>Wee endeavoured the recoverie of the Chappell Fort within an houre after it was ſurpriſed, but it was ſo ſtrengthned with the aſſiſtance of the town
+<pb n="8" facs="tcp:123234:6"/>Malignants that wee were put to a retreat and Major <hi>Francis Siddenham</hi> ſlaine.</p>
+               <p>Being ignorant what number the enemy was of in the Forts, and certain of a thouſand at leaſt not many miles off in the field: we were forced to be<g ref="char:EOLhyphen"/>take our ſelves to <hi>Melcombe</hi> onely, and to reſolve to ſtand upon a poſture of deſence as long as we were able.</p>
+               <p>All that weeke they played upon us with their Cannon, battered many of our houſes and fired ſome.</p>
+               <p>
+                  <hi>February</hi> the 16. we took of their horſe about eigh<g ref="char:EOLhyphen"/>tie and fortie five priſoners upon a rout.</p>
+               <p>Sir <hi>Lewis Dives</hi> Sir <hi>Thomas Auſtins and. Cleevelands</hi> horſe with ſome foot lay againſt us to block us up on the other ſide</p>
+               <p>The next week was ſpent in batteries as the for<g ref="char:EOLhyphen"/>mer:</p>
+               <p>On Sabbath day morning <hi>February</hi> twenty third <hi>Gorings</hi> forces being joyned to thoſe before mention<g ref="char:EOLhyphen"/>ed drew downe in a body and faced us.</p>
+               <p>The ſame night they began to caſt up a worke a<g ref="char:EOLhyphen"/>bout a furlong from the Towne, out of which we beat them on Munday morning, killedſome of their men, and tooke all their working tooles.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="9" facs="tcp:123234:6"/>
+                     <head>An Extract of the Letter written from Captaine <hi>Batten,</hi> to the Speaker of the Houſe of Commons 28. <hi>Febr.</hi> 1644. from aboard his Majeſties Ship called the <hi>Reformation</hi> in <hi>Wey<g ref="char:EOLhyphen"/>mouth</hi> Road.</head>
+                     <opener>
+                        <salute>Honourable Sir,</salute>
+                     </opener>
+                     <p>SInce my laſt, thanks be to God, wee are in farre better condition then we were then; On the 25 of this mo<g ref="char:EOLhyphen"/>neth the Governour went out of <hi>Melcombe</hi> with a party of Horſe and Foot, the Enemy on <hi>Weymouth</hi> ſide, drew out a party of Horſe and Foot to meet them, and ſo faced each other ſometime; the Governour making an orderly retreat with his Forces into <hi>Melcombe</hi> (having drawne away great part of the enemy from their workes) let down the Draw<g ref="char:EOLhyphen"/>bridge, fell over into <hi>Weymouth,</hi> ſtormed the Chappell Fort, and carryed it &amp; all <hi>Weymouth,</hi> without the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſe of one man, and tooke about 60. priſoners beſides what were ſlain, with divers horſe that were in their ſtables.</p>
+                     <p>The 26. and 27. dayes, We playd hard upon the Enemy, and they on us, both with great and ſmall ſhott, and the 27. at night a Priſoner of ours ran from them, who gave us notice, that they would ſtorme the Towne that night, in all places that they could, which was performed according<g ref="char:EOLhyphen"/>ly; the Enemy getting within our Workes neere to <hi>Wey<g ref="char:EOLhyphen"/>mouth</hi> Bridge, but were gallantly repulſed by our men, with the loſſe of ſome hundreds of the Enemy. The Governour himſelfe behaving himſelfe like a gallant man, as hee hath done in all the ſiege; The Enemy at length was beaten back into their Works.</p>
+                     <p>The 28. about ten of the clocke, they having recei<g ref="char:EOLhyphen"/>ved
+<pb n="10" facs="tcp:123234:7"/>this great blow, (and I believe having ſome notice of Sir <hi>William Wallers</hi> approach) drew out all their forces, and left all our Workes, with the Guns in them, as they found them, and ſo are gone in a very confuſed manner, ſo that we now enjoy all our Workes, and both Townes as for<g ref="char:EOLhyphen"/>merly.</p>
+                     <p>We have not loſt ten men, in the loſing and taking all theſe Workes, nor in all the time of the Siege; I have two of my own Company, one hath loſt a legg, and the other dangerouſly wounded, and will hardly eſcape, and three of Captain <hi>Jordans</hi> men ſcalded by a miſchance, by the fireing of ſome powder: indeed the Sea-men have ſhowne them<g ref="char:EOLhyphen"/>ſelves very brave men in all this buſineſſe.</p>
+                     <p>We have many priſoners on board, and in towne, beſides 40. ſent away, to morrow we ſhall ſhorten the number, by hanging ſome of the townſmen, who are priſoners aboard us, and were the betrayers of the towne.</p>
+                     <p>Within three houres after the Enemy had quitted our Workes, the Endeavour, a ſhip of <hi>Weymouth,</hi> of twelve peeces of Ordnance, laden with Salt, (and ſome part of her be<g ref="char:EOLhyphen"/>longing to Malignants, and was got cloſe under <hi>Portland</hi> Caſtle) cut her Cables, and came off to mee, although the Caſtle made ſeven or eight ſhotts at her, ſo that God hath bleſt us both by Sea and Land, to him be the glory</p>
+                     <closer>
+                        <signed>WILLIAM BATTEN.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="11" facs="tcp:123234:7"/>
+                     <opener>
+                        <salute>Worthy Sir,</salute>
+                     </opener>
+                     <p>SInce my laſt (perceiving the enemy ſecure, a party of my horſe and theirs, having beene lately engaged, and foot on each ſide to their aſſiſtance) I fell on with about a hundred and fifty musketiers in the middle of the day, regained <hi>Weymouth,</hi> and <hi>Chappell</hi> Fort, and tooke one Leivtenant Colonell, one Major, three Captains, three Leivtenants, and one hundered common men with ſtore of proviſions which the enemy had newly got toge<g ref="char:EOLhyphen"/>ther, and all with the loſſe of but one man of ours, this did ſo enrage the enemy that the Lord <hi>Goring</hi> would needs be revenged, and to that purpoſe advanced with his whole body on thurſday night, and fell upon us about midnight at ſeverall places, but entred only one of our Barracadoes, whence our men wear beaten back, juſt as I came by, which perceiving, I got a freſh party, and heat them off, re<g ref="char:EOLhyphen"/>covered that Fort, which was Captain <hi>Thornhills</hi> and kil<g ref="char:EOLhyphen"/>led and tooke ſome of the enemy there; this night we gave them ſuch a bruſh, that Mr. <hi>Iames Framp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on</hi> of <hi>Buckland,</hi> re<g ref="char:EOLhyphen"/>ported yeſterday that two of their regiments were ſpoiled, beſides what they left in the Street, and in the Sea, its re<g ref="char:EOLhyphen"/>ported eighty dead men were carryed into <hi>Week,</hi> upon which (perceiving it ſeemes no good to be done by them, in keeping longer on the north, which we valued not when we had the <hi>Chappell)</hi> they ſuddainly ſtole out yeſterday, and have left both <hi>Beneleff</hi> and the North Forts, without either burning the Corne, or Houſes, or ſpoyling our Guns, which I admire. Thus miraculouſly hath God wrought for us in preſerving this little diſadvantagious place againſt the other Towne and Forts, and an Army, and which is more in giving us ſuch ſucceſſe, and at laſt the poſſeſsion of
+<pb n="12" facs="tcp:123234:8"/>all in the face of that Army which came to releive them; I hope (whatſoever we have ſuffered) that this will tame the Cavies, and hath (in detaining that body here which might have done miſcheife elſe where) much ad<g ref="char:EOLhyphen"/>vantaged the publique; God bringing good out of evill, my Souldiers Horſe and Foot, have all had very hard ſer<g ref="char:EOLhyphen"/>vice of it day and night, I ſhall entreat you to write to the Parliament, for ſomething for their encouragement, they have neither money, nor cloathes, and yet unwearied in this buſineſſe. I have nothing elſe to adde but that I am.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Feb.</hi> 28. 1644.</date>
+                        </dateline>
+                        <signed>Your affectionate ſervant. <hi>W. Siddenham.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>An Extract of Collonel <hi>Siddenhams</hi> letter to the Committee of the the Weſt.</head>
+                     <head type="sub">Dated. 1. <hi>March.</hi> 1644.</head>
+                     <opener>
+                        <salute>Right Honourable,</salute>
+                     </opener>
+                     <p>HAveing now ſome few houres of freedome, from thoſe continued Sallyes, Alarms, Fireings and batteries which almoſt theſe three weekes have kept me from the leaſt leaſure to doe any thing, but attend the ene<g ref="char:EOLhyphen"/>my. I thinke it my duty to give you an account of Gods miraculous diſpenſations towards us. All (as you have formerly received) beeing treacheronſly deliver into the hand of the enemy except <hi>Melcombe.</hi> On tueſday laſt <hi>Feb.</hi> 25. the enemy having drawne out many of their foot to re<g ref="char:EOLhyphen"/>lieve a party of their horſe, being indanger to be ingaged
+<pb n="13" facs="tcp:123234:8"/>by a party of ours which I ſent out to diſcover the enemy. I fell preſently upon <hi>Weymouth,</hi> which Towne (together with the Chappell Fort) was in an houre regained; where wee tooke priſoners, one Lievtenant Collonel one Ma<g ref="char:EOLhyphen"/>jor, three Captains, and one hundred of inferior Officers and Common Souldiers, which ſo inraged the enemy that upon thurſday laſt about Midnight they furiouſly ſtormed us at ſeverall places of both Townes, out of all <hi>Weymouth</hi> we were not able to keep them, and therefore reſolved to make good ſo much of it as might let us, upon any occaſion, too and from the Chappell Fort. The enemy came in great multitudes thorow the Streets and backe<g ref="char:EOLhyphen"/>ſides at both ends of the Towne, and diſputed with us very hotly about three houres for that ſmale part of it, which wee were willing to keepe. The Chappell Fort, and <hi>Melcombe</hi> beeing likewiſe ſtormed at the ſame time from all which places God inabled us to repell them. In all this time they wounded but one of my men. What exe<g ref="char:EOLhyphen"/>cution was done upon the enemy, I am not certaine they carrying off as many as they were able before day, a<g ref="char:EOLhyphen"/>mongſt whom (as the people of the Towne have ſince in<g ref="char:EOLhyphen"/>formed me) were divers in Buffe-Coats, and Velvet-lack<g ref="char:EOLhyphen"/>ets they left much blood behind them in the Streets and ſlaine men upon the place, they carryed (as it is reported) many wounded men into one Village a mile from the Towne. Upon Friday about 10 of the Clocke, they ſudden<g ref="char:EOLhyphen"/>ly left (except plunder) all which they had formerly gai<g ref="char:EOLhyphen"/>ned, quitted their Forts, and marched away in a body, lying now at a little diſtance but blocking us up ſtill as before, what they meane to doe next I know not, but doe expect ſome further deſigne upon us, for they are now ſummoning in the Country at Dorcheſter from ſixteene to ſixty.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="14" facs="tcp:123234:9"/>
+                     <head>An Extract of Collonell <hi>Iohn Binghams</hi> letter Gover<g ref="char:EOLhyphen"/>nor of <hi>Poole,</hi> to the Committee of the Weſt. dated the firſt of <hi>March,</hi> 1644.</head>
+                     <opener>
+                        <salute>Right Honourable,</salute>
+                     </opener>
+                     <p>AS ſoon as this moſt happy news came to my hand, which our great and good God hath freely don for us, in giving us thoſe unlookt for loſt Forts with <hi>Weymouth</hi> Towne, I have ſent it you in a true coppy of the Governors, Collonell <hi>Sid<g ref="char:EOLhyphen"/>denhams</hi> Letter to peruſe: He begs reliefe for his va<g ref="char:EOLhyphen"/>hant tir'd men, I beſeech you to tender his caſe and beleeve they have been put upon much extreame hard duty.</p>
+                     <p>My Lords and Gentlmen her's litle of man ſeen in this, all is Gods great, free, and not to be forgot<g ref="char:EOLhyphen"/>ten mercy, in manifeſting his power in their much weakneſſe, with which very well agreeth the pro<g ref="char:EOLhyphen"/>feſſion of the Governor of <hi>Weymouth</hi> Collonell <hi>Syd<g ref="char:EOLhyphen"/>denham</hi> himſelf in theſe words. <hi>God hath diſcovered himſelfe very gratiouſly unto us in ſeverall acts of provi<g ref="char:EOLhyphen"/>dence, which I would not have wanted the experience of for a world.</hi> My Lords I am your faithfull ſervant.</p>
+                     <closer>
+                        <signed>Iohn Bingham.</signed>
+                     </closer>
+                     <postscript>
+                        <p>There are in our Countrey now gotten into a body neere a thouſand Country men with Gunns and Clubbs, to reſiſt the French and Iriſh amongſt the Cavalliers: We have ſent eightie horſe to their deſired aide</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="15" facs="tcp:123234:9"/>
+                     <head>A true Coppy of a Letter intercepted written from Sir <hi>Lewis Dives,</hi> to the Earle of <hi>Briſtoll.</hi>
+                     </head>
+                     <head type="sub">
+                        <hi>Dorcheſter</hi> 26. of <hi>February.</hi> 1644.</head>
+                     <opener>
+                        <salute>MY LORD,</salute>
+                     </opener>
+                     <p>THe Church Fort by a ſtrange misfortune was ſur<g ref="char:EOLhyphen"/>prized this night by the Enemy in <hi>Melcombe,</hi> but the principall Forts, where all our Ammunition and Proviſion lies, wee ſtill maintaine; Sir <hi>John Berkley</hi> is ſent for hither by my Lord <hi>Goring,</hi> to draw his Forces hither to joyne with ours, he having ſet up his reſt for the taking both that and the Towne of <hi>Melcombe</hi> toge<g ref="char:EOLhyphen"/>ther, which by Gods aſſiſtance we doubt not to effect, <hi>Wal<g ref="char:EOLhyphen"/>lers</hi> Forces being ſo ſcattered by the withdrawing of <hi>Eſsex</hi> his Horſe, and <hi>Mancheſters</hi> Foot from him, as he is not in a condition to advance towards us, and this newes was laſt night confirmed to us by <hi>Kell. Digby,</hi> who came from <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi> I beſeech your Lordſhip be pleaſed to employ all your Intereſts with Sir <hi>Richard Greenvile,</hi> to haſten the ſending of fifteene hundred Foot, or two thouſand Horſe at the leaſt towards us, to make good <hi>Devonſhire</hi> againſt the Forces a<g ref="char:EOLhyphen"/>bout <hi>Taunton,</hi> and that we may be at a neere diſtance to joyne together if there be occaſion, and he ſhall want no Horſe from us that he ſhall have need of: The buſineſſe is of that importance, as little leſſe then the Crowne depends upon it, ſo as we are confident he will not be wanting to us in this extremity, ſo ceaſing your Lordſhips further trouble, I remaine,</p>
+                     <closer>
+                        <dateline>
+                           <hi>To the Right Honourable, the Earle of</hi> Briſtoll <hi>at</hi> Exeter.</dateline>
+                        <signed>Your Lordſhips moſt humble ſervant, <hi>LEVVIS DIVES.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="16" facs="tcp:123234:10"/>
+                     <head>Another Letter intercepted From Sir <hi>Lewis Dives,</hi> to Sir <hi>Iohn Berkley</hi> at <hi>Teverton.</hi>
+                     </head>
+                     <opener>
+                        <salute>Noble Sir,</salute>
+                     </opener>
+                     <p>YOu will, I preſume, receive notice by Collonel <hi>Froad,</hi> before this will be with you, of the difaſter that happened to us this day, by negligence of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ome of our Horſe, which were beaten off their Guards, and per<g ref="char:EOLhyphen"/>ſued by the Enemy to <hi>VVeymouth;</hi> VVhereupon a hundred Muskettiers were drawn out of <hi>VVeymouth</hi> to relieve them, which the Enemy in <hi>Melcombe,</hi> taking all advantage of, made a ſally over the Draw-bridge, and have ſurprized the Chappell Fort, but the two principall Forts, where our Proviſions and Ammunition lyes wee ſtill maintaine, and doubt not by Gods aſſiſtance to keep them ſtill, hoping that this misfortune will turne to our advantage, and bee a meanes that wee ſhall gaine both the Towne and Fort to<g ref="char:EOLhyphen"/>gether. Whereupon my Lord <hi>Goring</hi> hath ſet up his reſt to goe through with it, being confident of your ſpeedy aſſi<g ref="char:EOLhyphen"/>ſtance in a worke of that infinite importance to his Maje<g ref="char:EOLhyphen"/>ſties ſervice; and in caſe <hi>Waller</hi> ſhould draw this way, which is not probable, yet your ſtrength united with my Lords, will be much ſuperiour to <hi>VVallers,</hi> ſo as doubtleſſe, wee may fight with him upon advantage, for <hi>Kell. Digby</hi> came this night to <hi>Sherborne</hi> from <hi>Oxford,</hi> who aſſured mee that <hi>Eſsex</hi> and <hi>Mantheſters</hi> Forces have abſolutely left him, and that he hath not a conſiderable party with him, his Army being utterly broken, ſo that this place being taken, which we are confident cannot bee a worke of many dayes, the Weſt is not only ſecured thereby, but my Lord <hi>Goring</hi> will
+<pb n="17" facs="tcp:123234:10"/>likewiſe have an opportunity of advancing into the Aſſo<g ref="char:EOLhyphen"/>ciated Counties, which are now left naked: And there is order likewiſe taken, that two thouſand Horſe from <hi>Oxford</hi> and the <hi>Vize,</hi> ſhall be ready to attend <hi>VVallers</hi> motion, ſo ſhall by Gods bleſſing our game goe faire, if not mar'd in the playing.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Feb.</hi> 26. 1644.</date>
+                        </dateline>
+                        <signed>LEVVIS DIVES.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the taking of</hi> Cardigan <hi>Caſtle and Town.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>An Extract out of a Letter Written by Captaine <hi>William Smith,</hi> to the Lord high Admirall, from aboard the Ship called the <hi>Swallow</hi> in <hi>Milford</hi> Haven, Dated the 5. of <hi>February,</hi> 1644.</head>
+                     <p>AFter many great raines which have fallen in theſe parts (which was no invitation for a Souldier to lye in the nelds) yet ſuch was the gallantry of Major Generall <hi>Laugherne</hi> to promote the Cauſe in hand, that the Almigh<g ref="char:EOLhyphen"/>tie no ſooner crowned his deſires with a happy ſeaſon, but in a gracefull acknowledgement, hee placed a Garriſon in <hi>Laugherne</hi> Caſtle, and from thence marched towards <hi>Cardi<g ref="char:EOLhyphen"/>gan,</hi> with about five hundred Horſe, and three hundred Foot; and on the 21 of <hi>December,</hi> 1644. hee ſate downe before <hi>Cardigan</hi> Caſtle, demanding a ſurrender thereof for the ſer<g ref="char:EOLhyphen"/>vice of the King and Parliament: But Major <hi>Slaughter</hi> who commanded in chiefe, replyed, he held that Caſtle for the
+<pb n="18" facs="tcp:123234:11"/>ſervice of the King, and ſo long as he had life he would keepe it for his Majeſty, (though therein he was not a man of his word.) After three dayes ſiege, the Major Generall perceiving all further attempts would be in vaine, unleſſe a breach could be forced, and having no artillery with him he forthwith gave order the Demy-Culverin ſhould be brought from <hi>Laugherne,</hi> which with much difficulty and induſtry came ſafe to <hi>Cardigan,</hi> and being placed to the beſt advantage he fell to battery.</p>
+                     <p>The enemy within the Caſtle-yard caſt up a halfe moone ſome diſtance from the place on which the Demy-Culve<g ref="char:EOLhyphen"/>rin played, in which they placed their great gunnes laden with Caſe-Shot, that in caſe a breach ſhould be made thoſe guns might diſanimate our men in entering, or per<g ref="char:EOLhyphen"/>forme ſuddaine execution on them: Our men plying the Demy-Culverin forced a breach, and being full of reſolu<g ref="char:EOLhyphen"/>tion entred, running in the mouth of their guns, recovered the halfe moone, where the enemy, as men bereft of all ſenſe, having not the power to give fire to their guns, al<g ref="char:EOLhyphen"/>though the Linſtocks were in their hands ready lighted, caſt downe all their armes, and cryed for quarter, the which was granted: from thence we entred the Caſtle and tooke Priſoner Major <hi>Slaughter</hi> and his wife, one Captain <hi>Vaughan</hi> with their Lievtenant and Enſigne, one Doctor <hi>Taylor</hi> a Divine with about an hundred Common Souldiers, ſix great guns, a hundred and fifty armes, a quantity of pow<g ref="char:EOLhyphen"/>der, ball, and other proviſions, and this was done the 29. of <hi>December</hi> laſt. On the fourth of <hi>Ianuary,</hi> Generall <hi>Ger<g ref="char:EOLhyphen"/>rard</hi> ſet downe before the Caſtle with about 1200 horſe and 1300. foote; Major Generall <hi>Laugherne</hi> recruted his forces to about 600. horſe, and 300. foot, and advanced towards <hi>Cardigan</hi> to redeeme his friends, who were in the
+<pb n="19" facs="tcp:123234:11"/>Caſtle out of the power of the Enemy; Lievtenant Collo<g ref="char:EOLhyphen"/>nell <hi>Powell</hi> in the night ſent a Souldier who ſwume through the river, and informed Major Generall <hi>Laugherne,</hi> that unleſſe he could releive the Caſtle, within eight dayes, he ſhould be enforced to ſurrender it for want of victualls, and ammunition, which he beleeved might be ſupplied, if ſome ſeam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n verſed in managing a water fight, and climing up rocks were employed; So 120. Seamen were ſent, who after a view had of the place, undertooke it, which was performed on this wiſe: A boate laden with proviſions was placed in the middle between foure boats on each ſide, two of which were manned with Seamen, who in flankes faced both wayes, plying their Musketts on the enemy, who from the ſhore played on them with about 300. Musketiers, yet our Seamen gallantly proceeded, put all the proviſions into the Caſtle, and returned without the loſſe of one man onely two ſlightly wounded. After this Collonel <hi>Laug<g ref="char:EOLhyphen"/>herne</hi> having drawn his foot into a body, being without Sea<g ref="char:EOLhyphen"/>men in all about 350 he encouraged them to give an aſſult on the Towne, which after ſome debate was attempted, and on the 22. of <hi>January</hi> laſt our foote forced their paſſage over the Bridge, in which we loſt but one man and having beaten the Enemy from their firſt guard, they preſſed on to the ſecond, which they alſo tooke, and purſuing the vi<g ref="char:EOLhyphen"/>ctory beate them out of their maine guard, which was at the market place, and then out of the Church, where our For<g ref="char:EOLhyphen"/>ces tooke two braſſe Demy-Culverins, which <hi>Gerrard</hi> brought from <hi>Briſtoll,</hi> with ſome Powder, Ball, and all their proviſions, and following the enemy beat them all out of the Towne, and ſo we are now Maſters both of the Towne and Caſtle. Of the enemy were ſlaine in the place, 85. beſides thoſe that were ſlaine before the Caſtle, 100. priſoners were taken, and their whole Forces routed,
+<pb n="20" facs="tcp:123234:12"/>and I believe in their flight they never looked behind them, untill they came to Caſtle <hi>Emlyne,</hi> which is ſix miles from <hi>Cardigan:</hi> In the Town we alſo took 250. armes I have not heard ſince theſe unhappy differences begun in this King<g ref="char:EOLhyphen"/>dome, that the hand of the Almighty hath more viſibly ap<g ref="char:EOLhyphen"/>peared in giving ſo great victories to ſo ſmall a handfull then hath been manifeſted in theſe parts, and to his own power we attribute all the praiſe and glory.</p>
+                  </body>
+               </floatingText>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="order">
+                           <head>Die Martis 4. Martii, 1644.</head>
+                           <p>
+                              <hi>REſolved upon the Queſtion by the Commons Aſſem<g ref="char:EOLhyphen"/>bled in Parliament; That Publique Thankes ſhall be given unto God for his great Mercy and bleſsing upon the Parliament Forces, in the regaining of</hi> VVeymouth, <hi>the gaining of</hi> Shrewsbury, <hi>and</hi> Scarbo<g ref="char:EOLhyphen"/>rough, <hi>the late deliverance at</hi> Plymouth, <hi>and the great Victory over the Forces under Sir</hi> Iohn VVinter.</p>
+                           <p>Reſolved upon the Queſtion,</p>
+                           <p>
+                              <hi>That Wedneſday come ſeven-night (being the</hi> 12. <hi>of this preſent</hi> March, <hi>be appointed for this day of publique Thankſgiving.</hi>
+                           </p>
+                           <p>
+                              <hi>Ordered that the Lord Major of the Citie of</hi> London <hi>be deſired to give notice of this day of publique Thankſ<g ref="char:EOLhyphen"/>giving, to all the Miniſters within the Lines of Communica<g ref="char:EOLhyphen"/>tion, that they may give notice of it to their Pariſhioners in their Pulpits on the next</hi> Lords day.</p>
+                           <closer>
+                              <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                           </closer>
+                        </div>
+                        <div type="order">
+                           <pb n="21" facs="tcp:123234:12"/>
+                           <head>Die Martis 4. Martii, 1644.</head>
+                           <p>
+                              <hi>IT is this day Ordered by the Lords in Parliament, That the Lord Major of the City of</hi> London, <hi>and his Brethren be deſired to bee at the Thankeſgiving on the</hi> 12. <hi>of this inſtant, in</hi> Chriſt Church, London, <hi>where the Mem<g ref="char:EOLhyphen"/>bers of both Houſes have appointed to meet to praiſe God for his bleſsing to the Parliament, for the good ſucceſſe at</hi> Shrewsbury <hi>and</hi> Weymouth. <hi>And that the Church be kept empty for the Lords and Commons.</hi>
+                           </p>
+                           <closer>
+                              <signed>Ioh. Brown Cleric. Parl.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="conclusion">
+               <pb n="21" facs="tcp:123234:13"/>
+               <head>The Concluſion.</head>
+               <p>ANd now ſince the Arme and Power of God hath ſo plainly appeared; and a fire is come downe from Heaven into the hearts of thoſe that fought for Gods Cauſe, to inflame them with zeale and courage, by which fire alſo their Adverſaries have been conſumed; Let the people no longer halt between two opinions, but confeſſe as in the dayes of <hi>Eliah,</hi> That the Lord is God, and let it be ſeen, That God at laſt hath turned the heart of this people. Let them no longer fight againſt God; for who ever fought againſt him and proſpered? Howſoever let Gods own peo<g ref="char:EOLhyphen"/>ple, behold and magnifie the worke of God, and let their hearts be lifted up in dependance upon him, and in the maintenance of that Cauſe which he ſo manifeſtly owneth. Who is wiſe, and he ſhall underſtand theſe things? Prudent, and he ſhall know them; for the wayes of the Lord are right, and the juſt ſhall walke in them, but the tranſgreſſors ſhall fall therein.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123234:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
